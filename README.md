@@ -1,4 +1,4 @@
-# Nhi_Repository
+# Nhi's GitHub Portfolio
 Welcome to my personal GitHub Portfolio!
 
 Here I can show you projects that I've worked/participated in. 
